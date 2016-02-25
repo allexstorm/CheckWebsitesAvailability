@@ -3,7 +3,7 @@ This app checks websites availability
 
 Put list of sites in inputList file, run app and get result in resultList file.
 
-This app just checks server is available or not and doesn't consider http response codes.
+This app just checks server is available or not and doesn't consider http response codes, use this app https://github.com/a7ex12/HTTPResponseCodes to get results with response codes.
 
 
 
